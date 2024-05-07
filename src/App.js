@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import MySlider from './MySlider';
 
 function App() {
   return (
@@ -13,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;//交給index.js
